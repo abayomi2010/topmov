@@ -1,3 +1,7 @@
-body {
-   background-color: red;
+#logo {
+   color: red;
+   font-style: italic;
+   font-weight: bold;
+   font-family: 'Cursive', sans-serif;
+   font-size: 35px;
 }

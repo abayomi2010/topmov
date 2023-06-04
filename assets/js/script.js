@@ -1,7 +1,7 @@
 
-const button = document.getElementById('myButton');
-button.onclick = myFunction;
+// const button = document.getElementById('myButton');
+// button.onclick = myFunction;
 
-function myFunction() {
-  alert("Working!");
-}
+// function myFunction() {
+//   alert("Working!");
+// }

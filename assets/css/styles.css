@@ -8,7 +8,7 @@
 
 body{
    background: url("../images/cinema.jpg");
-   height:1000px;
+   height:1500px;
    border: 3px solid black;
    background-repeat: no-repeat;
    background-position: center;
@@ -16,5 +16,5 @@ body{
 }
 
 #jumbo{
-   background-color: rgb(99, 8, 8);
+   background-color: rgb(200, 9, 9);
 }
